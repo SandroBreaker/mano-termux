@@ -1,0 +1,10 @@
+# dumps e zips gerados pelo toolkit
+*.txt
+*.zip
+*.log
+mano-dump*.txt
+teste*.txt
+/sdcard/
+*.tmp
+.DS_Store
+__pycache__/
